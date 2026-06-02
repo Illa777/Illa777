@@ -1,49 +1,110 @@
-👨‍💻 **Passionate Programmer with 4-5 Years of Experience**
+# Hi, I'm Illia Syniuk 👋  
+### ICT Student • Programmer • Game Developer • Creative Technologist
 
-*Hello! I'm a dedicated programmer with a rich experience spanning 4-5 years in the world of coding. My journey in software development has been both rewarding and challenging, shaping me into the programmer I am today.*
+I am a motivated ICT student and self-driven developer with **7–8 years of experience** in programming, game development, technical problem solving and creative digital projects.
 
-__🌟 Professional Endeavors__
+My main interests are **software development, game development, web development, automation and modern technology**. I enjoy building useful tools, experimenting with new ideas and improving my skills through real projects.
 
-**I've had the pleasure of working on various projects, contributing my skills and expertise to multiple jobs.
-Specializing in game development, I harness the power of C# and Unity to bring interactive and immersive games to life.
-📈 I successfully sold one of my games, marking a significant milestone in my career and fueling my passion for game development even further.
-💡 Private Tutoring**
+---
 
-**Apart from my professional projects, I offer private tutoring sessions, helping aspiring developers and gamers enhance their skills. These sessions are available on a private basis, ensuring personalized and focused learning experiences.
-🎮 Game Development Expertise**
+## 🚀 About Me
 
-**My expertise lies in crafting engaging games with a deep understanding of game mechanics, user experience, and the technical intricacies of Unity.
-I thrive on the creative process, from conceptualization to execution, ensuring each game I develop is a unique and captivating experience for players.
-🚀 Future Aspirations**
+I started my journey with programming and robotics, and over the years I have worked with different technologies, tools and creative workflows.
 
-**I'm constantly evolving and learning, aiming to push the boundaries of what's possible in game development.
-My goal is to continue creating innovative games, share knowledge through tutoring, and collaborate with like-minded professionals to bring more exciting projects to life.**
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**__(Ru Translate)__**
+I like to understand how systems work, solve problems step by step and turn ideas into real applications.
 
-👨‍💻 **Увлеченный программист с 4-5-летним опытом**
+At the moment, I am studying **ICT Medewerker** at **Koning Willem I College** and continue developing my own projects in my free time.
 
-**Привет! Я преданный своему делу программист с богатым опытом в 4-5 лет в мире кодирования. Мой путь в разработке программного обеспечения был одновременно и полезным, и сложным, превратив меня в того программиста, которым я являюсь сегодня.**
+I am especially interested in:
 
-**🌟 Профессиональные начинания**
+- Game development and interactive storytelling
+- Web applications and portfolio websites
+- Desktop tools and automation
+- Databases and service systems
+- UI/UX design and visual presentation
+- Artificial Intelligence and modern digital solutions
 
-**Мне посчастливилось работать над различными проектами, применяя свои навыки и опыт в различных областях.
-Специализируясь на разработке игр , я использую возможности C# и Unity для создания интерактивных и захватывающих игр.
-📈 Я успешно продал одну из своих игр, что стало важной вехой в моей карьере и еще больше разожгло мою страсть к разработке игр.
-💡 Частное репетиторство**
+---
 
-**Помимо моих профессиональных проектов, я предлагаю частные репетиторские сессии, помогая начинающим разработчикам и геймерам улучшить свои навыки. Эти сессии доступны на частной основе, гарантируя персонализированный и целенаправленный опыт обучения.
-🎮 Экспертиза в разработке игр**
+## 🎮 Game Development
 
-**Моя специализация — создание увлекательных игр с глубоким пониманием игровой механики, пользовательского опыта и технических тонкостей Unity.
-Я преуспеваю в творческом процессе, от разработки концепции до ее реализации, гарантируя, что каждая разработанная мной игра станет уникальным и захватывающим опытом для игроков.
-🚀 Будущие устремления**
+Game development is one of my biggest passions.
 
-**Я постоянно развиваюсь и учусь, стремясь раздвинуть границы возможного в разработке игр.
-Моя цель — продолжать создавать инновационные игры, делиться знаниями посредством репетиторства и сотрудничать с единомышленниками-профессионалами, чтобы воплощать в жизнь еще больше интересных проектов.**
+I have experience with game concepts, gameplay logic, visual design and project structure. I enjoy creating projects where technology, design and storytelling come together.
 
+One of my important milestones was **selling one of my own game projects**. This motivated me even more to continue developing creative and professional digital products.
 
-<!---
-Illa777/Illa777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Development
+
+- Python
+- C#
+- C++
+- Java
+- JavaScript
+- PHP
+- HTML / CSS
+
+### Databases
+
+- MySQL
+- SQLite
+
+### Tools & Creative Software
+
+- Unity
+- Ren'Py
+- Blender
+- Photoshop
+- After Effects
+- Git / GitHub
+
+---
+
+## 📌 Projects I Work On
+
+### Repair & Service Database Client
+
+A web application for laptop repair registration and service management.
+
+The project includes an admin panel, customer and device management, repair status updates and database integration.
+
+### Dynamic Inventory Management System
+
+A desktop application for product and stock management, built with Python and local database storage.
+
+### Pick Me! — Visual Novel
+
+An interactive visual novel project focused on storytelling, character development, choices and mobile-friendly gameplay.
+
+### Portfolio Website
+
+A modern personal portfolio website with responsive design, animations and a professional presentation of my skills, projects and education.
+
+---
+
+## 📚 Sharing Knowledge
+
+I am not a teacher, but I like to share useful things from my own experience.
+
+When I learn something interesting or build something useful, I enjoy showing the process, ideas and solutions that may help other developers or creative people.
+
+For me, programming is not only about writing code. It is also about learning, experimenting and improving every day.
+
+---
+
+## 🎯 Current Goals
+
+My current goal is to grow as an ICT professional and gain more real-world experience in a professional environment.
+
+I want to keep improving my technical skills, work on stronger projects and become better in software development, IT support, databases and game development.
+
+In the future, I would like to build my own creative game studio and continue developing unique digital experiences.
+
+---
+
+### Thanks for visiting my profile!  
+I am always learning, building and improving. 🚀
