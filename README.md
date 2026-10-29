@@ -4,10 +4,6 @@
   <p>I build practical software, helpful tools, and creative digital experiences.<br>About 8 years of self-directed learning and project-based programming experience.</p>
   <p><a href="README.md"><strong>English</strong></a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></p>
 </div>
-  ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-  ![Microsoft Graph](https://img.shields.io/badge/Microsoft-Graph-blue)
-  ![Platform](https://img.shields.io/badge/Platform-Local%20Network-green)
-  ![Status](https://img.shields.io/badge/Status-Active-success)
 ---
 
 ## About me
