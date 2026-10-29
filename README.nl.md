@@ -31,7 +31,7 @@ Ik heb gewerkt aan webapplicaties, desktoptools, databasesystemen en interactiev
   ![Illa Custom — projectillustratie](assets/illa-custom-cover.png)
 
 - **[Urtana — Discord-bot](https://bot-urtana.netlify.app/)** — Mijn Discord-botproject en de openbare projectwebsite.
-- **Portfolio- en CV-website** — Een responsieve persoonlijke website met mijn profiel, opleiding, vaardigheden en geselecteerde projecten.
+- **[Portfolio- en CV-website](https://mijn-cv-illia-syniuk.netlify.app/)** — Een responsieve persoonlijke website met mijn profiel, opleiding, vaardigheden en geselecteerde projecten.
 
 ## Opleiding
 
