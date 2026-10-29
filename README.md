@@ -1,110 +1,69 @@
-# Hi, I'm Illia Syniuk 👋  
-### ICT Student • Programmer • Game Developer • Creative Technologist
-
-I am a motivated ICT student and self-driven developer with **7–8 years of experience** in programming, game development, technical problem solving and creative digital projects.
-
-My main interests are **software development, game development, web development, automation and modern technology**. I enjoy building useful tools, experimenting with new ideas and improving my skills through real projects.
-
----
-
-## 🚀 About Me
-
-I started my journey with programming and robotics, and over the years I have worked with different technologies, tools and creative workflows.
-
-I like to understand how systems work, solve problems step by step and turn ideas into real applications.
-
-At the moment, I am studying **ICT Medewerker** at **Koning Willem I College** and continue developing my own projects in my free time.
-
-I am especially interested in:
-
-- Game development and interactive storytelling
-- Web applications and portfolio websites
-- Desktop tools and automation
-- Databases and service systems
-- UI/UX design and visual presentation
-- Artificial Intelligence and modern digital solutions
+<div align="center">
+  <h1>Hi, I'm Illia Syniuk 👋</h1>
+  <p><strong>ICT Student · Software Developer · Game Developer · Creative Technologist</strong></p>
+  <p>I build practical software, helpful tools, and creative digital experiences.<br>About 8 years of self-directed learning and project-based programming experience.</p>
+  <p><a href="README.md"><strong>English</strong></a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></p>
+  <p><a href="https://github.com/Illa777">GitHub</a> · <a href="https://bot-urtana.netlify.app/">Urtana Discord bot</a></p>
+</div>
 
 ---
 
-## 🎮 Game Development
+## About me
 
-Game development is one of my biggest passions.
+I am an ICT student at **Koning Willem I College** and a self-driven developer interested in software, IT support, game development, and user-friendly digital products. I enjoy understanding how systems work, solving problems methodically, and taking projects from an idea to a working result. Alongside my studies, I work at **Action**.
 
-I have experience with game concepts, gameplay logic, visual design and project structure. I enjoy creating projects where technology, design and storytelling come together.
+I have worked on web applications, desktop tools, database-backed systems, and interactive games. One personal milestone was selling one of my own game projects.
 
-One of my important milestones was **selling one of my own game projects**. This motivated me even more to continue developing creative and professional digital products.
+## Projects
 
----
+### Business and productivity software
 
-## 🛠️ Tech Stack
+- **[NetWerk-Magazijn](https://github.com/Illa777/NetWerk-Magazijn)** — A multilingual local web app for cable inventory, check-in/check-out, scanner-assisted workflows, stock history, Excel import/export, and role-based access. Built with Flask and SQLite; includes a Windows executable workflow.
+- **LabelAtelier** — A Windows desktop application for designing and printing Code 128 product labels, scan lists, and product books. Includes PDF/PNG previews, reusable templates, and a multilingual interface (Dutch, Ukrainian, English).
+- **Repair & Service Database Client** — A school internship web application for registering laptop repairs and managing customers, devices, repair statuses, and service records. Built with PHP, MySQL, HTML, CSS, and JavaScript.
+- **Dynamic Inventory Management System** — A Python desktop tool for product and stock management, with local database storage and a transaction/history log. Technologies include SQLite, Tkinter/PyQt, and PyInstaller.
 
-### Programming & Development
+### Creative and personal projects
 
-- Python
-- C#
-- C++
-- Java
-- JavaScript
-- PHP
-- HTML / CSS
+- **Pick Me! — Visual Novel** — A mobile-focused Ren’Py story project with character development, branching choices, and a custom interface.
+- **Windows 11 Pro — Illa Custom** *(in development)* — A custom Windows 11 Pro configuration and optimization project. Its companion website is also in development. The supplied visual is concept artwork, not a performance benchmark.
 
-### Databases
+  ![Illa Custom — project cover artwork](assets/illa-custom-cover.png)
 
-- MySQL
-- SQLite
+- **[Urtana — Discord bot](https://bot-urtana.netlify.app/)** — My Discord bot project and its public project website.
+- **Portfolio & CV Website** — A responsive personal website presenting my profile, education, skills, and selected projects.
 
-### Tools & Creative Software
+## Education
 
-- Unity
-- Ren'Py
-- Blender
-- Photoshop
-- After Effects
-- Git / GitHub
+| Period | Programme | Institution / location | Status |
+| :--- | :--- | :--- | :--- |
+| 2025–present | ICT Medewerker | Koning Willem I College, Veghel | In progress |
+| 2022–2023 | Metal & Electrical Installation | Koning Willem I College, Oss | Diploma earned |
+| 2020–2022 | ISK (International Transition Class) | Koning Willem I College | Certificate earned |
+| 2017–2018 | Programming & Robotics course (C++ and Java foundations) | Ukraine | Completed |
+| 2015–2023 | Secondary school, mathematics track (grades 5–11) | Ukraine | Completed |
+| 2011–2015 | Primary education (grades 1–4) | Ukraine | Completed |
 
----
+## Technology
 
-## 📌 Projects I Work On
+- **Programming:** Python, C#, C++, Java, JavaScript, PHP
+- **Web:** HTML, CSS
+- **Databases:** MySQL, SQLite
+- **Desktop & game development:** Tkinter, PyQt, Unity, Ren’Py
+- **Creative tools:** Blender, Photoshop, After Effects
+- **Workflow:** Git, GitHub, PyInstaller
 
-### Repair & Service Database Client
+## Languages
 
-A web application for laptop repair registration and service management.
+- Ukrainian — native
+- Russian — fluent
+- Dutch — B2
+- English — B1
 
-The project includes an admin panel, customer and device management, repair status updates and database integration.
+## Current goals
 
-### Dynamic Inventory Management System
-
-A desktop application for product and stock management, built with Python and local database storage.
-
-### Pick Me! — Visual Novel
-
-An interactive visual novel project focused on storytelling, character development, choices and mobile-friendly gameplay.
-
-### Portfolio Website
-
-A modern personal portfolio website with responsive design, animations and a professional presentation of my skills, projects and education.
+I am focused on growing as an ICT professional, gaining more real-world experience, and building stronger software projects. In the long term, I would like to create my own game studio, **Studio Setlies Games**.
 
 ---
 
-## 📚 Sharing Knowledge
-
-I am not a teacher, but I like to share useful things from my own experience.
-
-When I learn something interesting or build something useful, I enjoy showing the process, ideas and solutions that may help other developers or creative people.
-
-For me, programming is not only about writing code. It is also about learning, experimenting and improving every day.
-
----
-
-## 🎯 Current Goals
-
-My current goal is to grow as an ICT professional and gain more real-world experience in a professional environment.
-
-I want to keep improving my technical skills, work on stronger projects and become better in software development, IT support, databases and game development.
-
-In the future, I would like to build my own creative game studio and continue developing unique digital experiences.
-
----
-
-### Thanks for visiting my profile!  
-I am always learning, building and improving. 🚀
+*Always learning, building, and improving. 🚀*
