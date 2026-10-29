@@ -3,10 +3,7 @@
   <p><strong>Студент ІКТ · Розробник програмного забезпечення · Розробник ігор · Креативний технічний фахівець</strong></p>
   <p>Створюю практичне програмне забезпечення, корисні інструменти й творчі цифрові проєкти.<br>Близько 8 років самостійного навчання та програмування в межах проєктів.</p>
   <p><a href="README.md">English</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md"><strong>Українська</strong></a></p>
-  <p><a href="https://github.com/Illa777">GitHub</a> · <a href="https://bot-urtana.netlify.app/">Discord-бот Urtana</a></p>
 </div>
-
----
 
 ## Про мене
 
