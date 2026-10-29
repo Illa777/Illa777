@@ -31,7 +31,7 @@ I have worked on web applications, desktop tools, database-backed systems, and i
   ![Illa Custom — project cover artwork](assets/illa-custom-cover.png)
 
 - **[Urtana — Discord bot](https://bot-urtana.netlify.app/)** — My Discord bot project and its public project website.
-- **Portfolio & CV Website** — A responsive personal website presenting my profile, education, skills, and selected projects.
+- **[Portfolio & CV Website](https://bot-urtana.netlify.app/)*** — A responsive personal website presenting my profile, education, skills, and selected projects.
 
 ## Education
 
