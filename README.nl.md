@@ -3,10 +3,7 @@
   <p><strong>ICT-student · Softwareontwikkelaar · Gameontwikkelaar · Creatieve technoloog</strong></p>
   <p>Ik bouw praktische software, handige tools en creatieve digitale ervaringen.<br>Ongeveer 8 jaar zelfstandig leren en programmeren aan projecten.</p>
   <p><a href="README.md">English</a> · <a href="README.nl.md"><strong>Nederlands</strong></a> · <a href="README.uk.md">Українська</a></p>
-  <p><a href="https://github.com/Illa777">GitHub</a> · <a href="https://bot-urtana.netlify.app/">Urtana Discord-bot</a></p>
 </div>
-
----
 
 ## Over mij
 
