@@ -22,7 +22,8 @@ Ik heb gewerkt aan webapplicaties, desktoptools, databasesystemen en interactiev
 
 ### Creatieve en persoonlijke projecten
 
-- **Pick Me! — Visual Novel** — Een Ren’Py-verhaalproject voor mobiel, met karakterontwikkeling, keuzes met vertakkingen en een eigen interface.
+- **[Pick Me! — Visual Novel](https://play.google.com/store/apps/details?id=com.setlies.studio.pickme)** — Een Ren’Py-verhaalproject voor mobiel, met karakterontwikkeling, keuzes met vertakkingen en een eigen interface.
+- **[Pick Me! — Visual Novel](https://studio-setlies-games.itch.io/pick-me-visual-novel)** - на PC
 - **Windows 11 Pro — Illa Custom** *(in ontwikkeling)* — Een project rond een aangepaste Windows 11 Pro-configuratie en optimalisatie. De bijbehorende website wordt ook ontwikkeld. De meegeleverde afbeelding is conceptuele projectillustratie, geen prestatietest.
 
   ![Illa Custom — projectillustratie](assets/illa-custom-cover.png)
