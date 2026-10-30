@@ -22,7 +22,8 @@ I have worked on web applications, desktop tools, database-backed systems, and i
 
 ### Creative and personal projects
 
-- **Pick Me! — Visual Novel** — A mobile-focused Ren’Py story project with character development, branching choices, and a custom interface.
+- **[Pick Me! — Visual Novel](https://play.google.com/store/apps/details?id=com.setlies.studio.pickme)** — A mobile-focused Ren’Py story project with character development, branching choices, and a custom interface.
+- **[Pick Me! — Visual Novel](https://studio-setlies-games.itch.io/pick-me-visual-novel)** - for PC
 - **Windows 11 Pro — Illa Custom** *(in development)* — A custom Windows 11 Pro configuration and optimization project. Its companion website is also in development. The supplied visual is concept artwork, not a performance benchmark.
 
   ![Illa Custom — project cover artwork](assets/illa-custom-cover.png)
