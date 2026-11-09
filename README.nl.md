@@ -18,7 +18,7 @@ Ik heb gewerkt aan webapplicaties, desktoptools, databasesystemen en interactiev
 - **[NetWerk-Magazijn](https://github.com/Illa777/NetWerk-Magazijn)** — Een meertalige lokale webapp voor kabelvoorraad, uitgifte en retouren, scannerworkflows, voorraadgeschiedenis, Excel-import/-export en rollenbeheer. Gebouwd met Flask en SQLite; er is ook een Windows-EXE-bouwproces.
 - **LabelAtelier** — Een Windows-desktopapplicatie voor het ontwerpen en afdrukken van Code 128-productlabels, scanlijsten en productboeken. Met PDF/PNG-voorbeelden, herbruikbare sjablonen en een interface in het Nederlands, Oekraïens en Engels.
 - **[Repair & Service Database Clien](https://github.com/Illa777/ReparatieSD)t** — Een webapplicatie voor een schoolstage, gericht op het registreren van laptopreparaties en het beheren van klanten, apparaten, reparatiestatussen en servicegegevens. Gebouwd met PHP, MySQL, HTML, CSS en JavaScript.
-- **Dynamisch voorraadbeheersysteem** — Een Python-desktoptool voor product- en voorraadbeheer met lokale databaseopslag en een historie-/transactielogboek. Technologieën: SQLite, Tkinter/PyQt en PyInstaller.
+- **[Magazijn Voorraad Scanner](https://github.com/Illa777/Magazijn-Voorraad-Scanner)** — Een Python-desktoptool voor product- en voorraadbeheer met lokale databaseopslag en een historie-/transactielogboek. Technologieën: SQLite, Tkinter/PyQt en PyInstaller.
 
 ### Creatieve en persoonlijke projecten
 
