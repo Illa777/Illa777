@@ -17,7 +17,7 @@ I have worked on web applications, desktop tools, database-backed systems, and i
 
 - **[NetWerk-Magazijn](https://github.com/Illa777/NetWerk-Magazijn)** — A multilingual local web app for cable inventory, check-in/check-out, scanner-assisted workflows, stock history, Excel import/export, and role-based access. Built with Flask and SQLite; includes a Windows executable workflow.
 - **LabelAtelier** — A Windows desktop application for designing and printing Code 128 product labels, scan lists, and product books. Includes PDF/PNG previews, reusable templates, and a multilingual interface (Dutch, Ukrainian, English).
-- **[Repair & Service Database Client](https://github.com/Illa777/ReparatieSD) ** — A school internship web application for registering laptop repairs and managing customers, devices, repair statuses, and service records. Built with PHP, MySQL, HTML, CSS, and JavaScript.
+- **[Repair & Service Database Client](https://github.com/Illa777/ReparatieSD)** — A school internship web application for registering laptop repairs and managing customers, devices, repair statuses, and service records. Built with PHP, MySQL, HTML, CSS, and JavaScript.
 - **[Magazijn Voorraad Scanner](https://github.com/Illa777/Magazijn-Voorraad-Scanner)** — Is a local desktop application for warehouse and inventory management. The application is designed for an environment where products need to be quickly located, scanned, issued, returned, ordered, and checked. Technologies include SQLite, Tkinter/PyQt, and PyInstaller.
 
 ### Creative and personal projects
