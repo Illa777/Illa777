@@ -28,7 +28,7 @@
 
   ![Illa Custom — обкладинка проєкту](assets/illa-custom-cover.png)
 
-- **[Urtana — Discord-бот](https://bot-urtana.netlify.app/)** — Мій проєкт Discord-бота та його публічний вебсайт.
+- **[𝐊𝐲𝐫𝘁𝗮𝗻𝗮 — Discord Бот](https://bot-kyrtana.netlify.app/)** — Мій проєкт Discord-бота та його публічний вебсайт.
 - **[Сайт-портфоліо та CV](https://mijn-cv-illia-syniuk.netlify.app/)** — Адаптивний персональний сайт із моєю інформацією, освітою, навичками та вибраними проєктами.
 
 ## Освіта
